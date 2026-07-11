@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7f3a034821afc61a",
@@ -186,20 +185,25 @@
   },
   "active": "8f7716b895cb8c02",
   "lastOpenFiles": [
-    "index.html",
-    "Pasted image 20260710173832.png",
-    "总学习路线.md",
+    "picture/Pasted image 20260711171044.png",
     "C/快速过语法DAY1.md",
-    "Pasted image 20260710160815.png",
+    "C/C学习计划.md",
+    "Pasted image 20260710173832.png.md",
+    "picture/Pasted image 20260710173832.png",
+    "picture/Pasted image 20260710160815.png",
+    "欢迎.md",
+    "未命名.md",
     "未命名 1.md",
+    "总学习路线.md",
+    "picture",
+    "新建文件夹",
+    "C/picture",
+    "index.html",
     "English/基础1000.md",
     "STM32F407/学习路径.md",
     "STM32F407",
-    "未命名.md",
-    "欢迎.md",
     "English/English.md",
     "English",
-    "C/C学习计划.md",
     "hotkeys.json",
     "C"
   ]
