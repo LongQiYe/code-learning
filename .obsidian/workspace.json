@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "9c924742f2ac26ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "41b46a60f8405af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7716b895cb8c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/快速过语法DAY1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "快速过语法DAY1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "613ebe88995f4280",
+    "type": "split",
+    "children": [
+      {
+        "id": "79f701383a502dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad63e10d8d33d9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0cf3ee32e9dfc89c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fb7d1f2d2fed4357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7f3a034821afc61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "97676d3ae7738c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fcadb031d7202f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/English.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "English 的反向链接列表"
+            }
+          },
+          {
+            "id": "6466c9d28c5b8f33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C/DAY1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "DAY1 的出链列表"
+            }
+          },
+          {
+            "id": "ee9b12fdb57fc02c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2e075f4c58afaeda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a3d457d01958c396",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/DAY1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "DAY1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8f7716b895cb8c02",
+  "lastOpenFiles": [
+    "index.html",
+    "Pasted image 20260710173832.png",
+    "总学习路线.md",
+    "C/快速过语法DAY1.md",
+    "Pasted image 20260710160815.png",
+    "未命名 1.md",
+    "English/基础1000.md",
+    "STM32F407/学习路径.md",
+    "STM32F407",
+    "未命名.md",
+    "欢迎.md",
+    "English/English.md",
+    "English",
+    "C/C学习计划.md",
+    "hotkeys.json",
+    "C"
+  ]
+}
