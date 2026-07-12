@@ -1,0 +1,10 @@
+{
+  "id": "alignment",
+  "name": "Alignment",
+  "description": "Align Text to Center or Right.",
+  "version": "26.3",
+  "minAppVersion": "0.12.8",
+  "isDesktopOnly": false,
+  "author": "Ankit Raj",
+  "authorUrl": "https://github.com/Kool-Ankit-Raj/"
+}
