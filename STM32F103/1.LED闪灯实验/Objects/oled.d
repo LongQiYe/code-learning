@@ -1,12 +1,12 @@
 .\objects\oled.o: my_lib\oled.c
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\string.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\oled.o: my_lib\oled.h
 .\objects\oled.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\oled.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oled.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\oled.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\oled.o: .\std_periph_driver\inc\cmsis_armcc.h
@@ -37,4 +37,4 @@
 .\objects\oled.o: .\std_periph_driver\inc\stm32f10x_wwdg.h
 .\objects\oled.o: my_lib\oled_font.h
 .\objects\oled.o: my_lib\oled_default_font.h
-.\objects\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\oled.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\math.h

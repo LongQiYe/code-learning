@@ -2,7 +2,7 @@
 .\objects\si2c.o: my_lib\si2c.h
 .\objects\si2c.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\si2c.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\si2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\si2c.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\si2c.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\si2c.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\si2c.o: .\std_periph_driver\inc\cmsis_armcc.h

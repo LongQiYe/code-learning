@@ -2,7 +2,7 @@
 .\objects\delay.o: my_lib\delay.h
 .\objects\delay.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\delay.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\delay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\delay.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\delay.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\delay.o: .\std_periph_driver\inc\cmsis_armcc.h
