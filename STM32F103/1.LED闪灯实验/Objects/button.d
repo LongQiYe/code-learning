@@ -2,7 +2,7 @@
 .\objects\button.o: my_lib\button.h
 .\objects\button.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\button.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\button.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\button.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\button.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\button.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\button.o: .\std_periph_driver\inc\cmsis_armcc.h

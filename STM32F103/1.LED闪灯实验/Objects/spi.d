@@ -2,7 +2,7 @@
 .\objects\spi.o: my_lib\spi.h
 .\objects\spi.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\spi.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\spi.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\spi.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\spi.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\spi.o: .\std_periph_driver\inc\cmsis_armcc.h

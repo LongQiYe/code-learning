@@ -2,7 +2,7 @@
 .\objects\usart.o: my_lib\usart.h
 .\objects\usart.o: .\std_periph_driver\inc\stm32f10x.h
 .\objects\usart.o: .\std_periph_driver\inc\core_cm3.h
-.\objects\usart.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usart.o: .\std_periph_driver\inc\cmsis_version.h
 .\objects\usart.o: .\std_periph_driver\inc\cmsis_compiler.h
 .\objects\usart.o: .\std_periph_driver\inc\cmsis_armcc.h
@@ -31,7 +31,7 @@
 .\objects\usart.o: .\std_periph_driver\inc\stm32f10x_tim.h
 .\objects\usart.o: .\std_periph_driver\inc\stm32f10x_usart.h
 .\objects\usart.o: .\std_periph_driver\inc\stm32f10x_wwdg.h
-.\objects\usart.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\usart.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\string.h
-.\objects\usart.o: D:\Keil_v5\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\usart.o: my_lib\delay.h
