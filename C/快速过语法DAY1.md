@@ -258,3 +258,39 @@ if(判断条件){
 
 ***写代码，看的是，你能不能让足够多的人看懂你的代码***
 
+`switch-case`
+```c
+//switch-case语句
+switch(控制表达式){//这个控制表达式只能是整数型的结果
+case 常量:
+	语句;
+	break;
+case 常量:
+	语句;
+	break;
+………………
+default:
+	语句;
+}
+```
+```c
+#include<stdio.h>  
+int main() {  
+    int i;  
+    scanf("%d",&i);  
+    switch (i) {  
+        case 1:  
+            printf("1");  
+            break;  
+        case 2:  
+            printf("2");  
+            break;  
+        case 3:  
+            printf("3");  
+            break;  
+        default:  
+            printf("4");  
+    }  
+  
+}
+```

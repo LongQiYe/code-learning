@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32F103/3.串口/2.USART.md",
+                "file": "C/快速过语法DAY1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.USART"
+              "title": "快速过语法DAY1"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "8f7716b895cb8c02",
   "lastOpenFiles": [
+    "C/C学习计划.md",
+    "STM32F103/3.串口/2.USART.md",
     "STM32F103/1.LED闪灯实验/Objects/template.hex",
     "STM32F103/1.LED闪灯实验/Objects/stm32f10x_gpio.__i",
     "STM32F103/1.LED闪灯实验/Objects/stm32f10x_fsmc.__i",
@@ -196,13 +198,11 @@
     "STM32F103/1.LED闪灯实验/Objects/stm32f10x_dac.__i",
     "STM32F103/1.LED闪灯实验/Objects/stm32f10x_crc.__i",
     "STM32F103/1.LED闪灯实验/Objects/stm32f10x_cec.__i",
-    "STM32F103/1.LED闪灯实验/Objects/stm32f10x_can.__i",
     "picture/Pasted image 20260713221830.png",
     "picture/Pasted image 20260713220901.png",
     "STM32F103/3.串口/1.通信协议.md",
     "STM32F103/2.GPIO输入模式/GPIO4种输入模式.md",
     "STM32F103/1.LED闪灯实验/LED闪灯实验.md",
-    "STM32F103/3.串口/2.USART.md",
     "picture/Pasted image 20260713214142.png",
     "picture/Pasted image 20260713213355.png",
     "picture/Pasted image 20260713212756.png",
@@ -214,7 +214,6 @@
     "STM32F103/LED闪灯实验/LED闪灯实验.md",
     "STM32F407/学习路径.md",
     "C/快速过语法DAY1.md",
-    "C/C学习计划.md",
     "Pasted image 20260710173832.png.md",
     "欢迎.md",
     "未命名.md",
