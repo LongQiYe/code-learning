@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f3a034821afc61a",
@@ -185,6 +186,11 @@
   },
   "active": "8f7716b895cb8c02",
   "lastOpenFiles": [
+    "picture/Pasted image 20260717163305.png",
+    "C/快速过语法DAY1.md",
+    "picture/Pasted image 20260717163440.png",
+    "picture/Pasted image 20260717163237.png",
+    "picture/Pasted image 20260717140302.png",
     "C/C学习计划.md",
     "STM32F103/3.串口/2.USART.md",
     "STM32F103/1.LED闪灯实验/Objects/template.hex",
@@ -206,13 +212,8 @@
     "picture/Pasted image 20260713213355.png",
     "picture/Pasted image 20260713212756.png",
     "picture/Pasted image 20260713160739.png",
-    "picture/Pasted image 20260713154528.png",
-    "picture/Pasted image 20260713153948.png",
-    "picture/Pasted image 20260713153250.png",
-    "picture/Pasted image 20260713152400.png",
     "STM32F103/LED闪灯实验/LED闪灯实验.md",
     "STM32F407/学习路径.md",
-    "C/快速过语法DAY1.md",
     "Pasted image 20260710173832.png.md",
     "欢迎.md",
     "未命名.md",
